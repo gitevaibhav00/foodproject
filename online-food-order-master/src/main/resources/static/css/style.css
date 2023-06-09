@@ -6,7 +6,7 @@ body
 
 .custom-bg
 {
-	background:#fcde67!important;
+	background:#c6b46c!important;
 	
 }
 
@@ -31,8 +31,8 @@ body
 
 .list-group-item-action active
 {
-	background:#fcde67!important;
-	border-color:#fcde67!important;
+	background:#c6b46c!important;
+	border-color:#c6b46c!important;
 }
 
 .mid-align:before {
@@ -55,4 +55,3 @@ body
         .modal-size {
     max-width: 80% !important;
 }
-        
